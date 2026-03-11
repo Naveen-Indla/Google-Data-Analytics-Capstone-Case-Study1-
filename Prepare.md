@@ -30,15 +30,3 @@
 |end_lat|FLOAT|NULLABLE|
 |end_lng|FLOAT|NULLABLE|
 |member_casual|STRING|NULLABLE|  
-
-****Station Data****
-
-|Field Name|Type|Mode|
-|------|------|----|
-|id|INTEGER|NULLABLE
-|name|STRING|NULLABLE
-|city|STRING|NULLABLE
-|latitude|FLOAT|NULLABLE
-|longtitude|FLOAT|NULLABLE
-|dpcapacity|INTEGER|NULLABLE
-|online_date|TIMESTAMP|NULLABLE
