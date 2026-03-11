@@ -2,12 +2,12 @@
 
 1. Data is well orgarnized and formatted.
 2. Discover data in detail.
-    - During 2022, 60% of cyclistics users were member (2.5 millions trips).
+    - During 2025, 60% of cyclistics users were member (2.5 millions trips).
     - Membership were only using Classic and Electrice bike.
     - Summer was the great season for Cyclistsics.
         - Member: Apr - Aug.
         - Casual: May - Jul.
-    - Average travel time of Casual is longer than Member throghout FY 2022.
+    - Average travel time of Casual is longer than Member throghout FY 2025.
     - Member activated Cyclistics on weekdays, Casuals spent more time on weekends.
     - 8:00 Am - 17:00 PM was the most favorite travel time for Member, while Casual usually use Cyclistics from 12PM - 17PM.
     - The average travel time for both Member and Casual:
