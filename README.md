@@ -18,10 +18,10 @@ In this case study, I will perform many real-world tasks of a junior data analys
 Data Source: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html) [accessed on 10/15/25]  
   
 SQL Queries:  
-[01. Data Combining](https://github.com/Naveen-Indla/Case-Study-1-Google-Data-Analytics-Cyslistics/blob/main/01.%20Combining%20Data.sql)  
-[02. Data Exploration](https://github.com/Naveen-Indla/Case-Study-1-Google-Data-Analytics-Cyslistics/blob/main/02.%20Exploring%20Data.sql)  
-[03. Data Cleaning](https://github.com/Naveen-Indla/Case-Study-1-Google-Data-Analytics-Cyslistics/blob/main/03.%20Cleaning%20Data.sql)  
-[04. Data Analysis](https://github.com/Naveen-Indla/Case-Study-1-Google-Data-Analytics-Cyslistics/blob/main/04.%20Analyzing%20Data.sql)  
+[01. Data Combining](https://github.com/Naveen-Indla/Google-Data-Analytics-Capstone-Case-Study1-/blob/7923dda72ed9af1d3fc5160b2cb55959ffe52e8d/1.Combining%20Data.sql)  
+[02. Data Exploration](https://github.com/Naveen-Indla/Google-Data-Analytics-Capstone-Case-Study1-/blob/7923dda72ed9af1d3fc5160b2cb55959ffe52e8d/2.Exploring%20Data.sql)  
+[03. Data Cleaning](https://github.com/Naveen-Indla/Google-Data-Analytics-Capstone-Case-Study1-/blob/7923dda72ed9af1d3fc5160b2cb55959ffe52e8d/3.Cleaning%20Data.sql)  
+[04. Data Analysis](https://github.com/Naveen-Indla/Google-Data-Analytics-Capstone-Case-Study1-/blob/7923dda72ed9af1d3fc5160b2cb55959ffe52e8d/4.Analyzing%20Data.sql)  
 
 Data Visualizations: [Tableau](https://public.tableau.com/app/profile/fillips.bui/viz/CyclisticsCaseStudy_16887412022800/CyclisticsStats2022)  
 
