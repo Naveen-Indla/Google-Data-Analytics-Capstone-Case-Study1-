@@ -108,24 +108,22 @@ Get through the dataset to recognize the unusual and unidentify values.
 
 2. Checking duplication values for each fields.
 
-   ![image](https://user-images.githubusercontent.com/126408630/251007429-2b8afec5-0e10-41d5-b2eb-7db04b55e11d.PNG)
-
 3. There are 3 unique types of bikes **rideable_type** in our data.
 
-   ![image](https://github.com/spillif/Case-Study-1-Google-Data-Analytics-Cyslistics/assets/126408630/9a9ff571-9440-46cc-a58d-78b29d77e43b)
+   ![image](https://github.com/Naveen-Indla/Google-Data-Analytics-Capstone-Case-Study1-/blob/c617230f73a46daf0e91400f88a7a2c912250908/rideable_types.png)
 
 4. **started_at** and **ended_at** follow TIMESTAMP - YYYY-MM-DD hh:mm:ss UTC.
 
 5. These fields need to be cleaned up.
 
-   ![image](https://user-images.githubusercontent.com/126408630/251008679-81204158-794f-4399-bd8c-023475436fd6.PNG)
+   ![image](https://github.com/Naveen-Indla/Google-Data-Analytics-Capstone-Case-Study1-/blob/38dbf103d066123949387dc22f5e9471ee67ded7/fields%20to%20clean%20up.png)
 
    - **start_sation_name**, **end_station_name**, **start_station_id**, and **end_station_id** contribute no value to the analysis.
    - **lat** and **lng** use to visualize mapping.
 
 6. **member_casual** column has 2 unique values as a member or casual rider.
 
-    ![image](https://user-images.githubusercontent.com/126408630/251009309-c01449ba-dc95-4228-b145-d4a961d55a72.PNG)
+    ![image](https://github.com/Naveen-Indla/Case-Study-1-Google-Data-Analytics-Cyslistics/blob/cbef9a9429aa9b425d2e767f85bcce1850c520ed/member_casual%20values.png)
 
 ### Data Cleaning
 
