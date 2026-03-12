@@ -8,10 +8,10 @@ In this case study, I will perform many real-world tasks of a junior data analys
 
 - [Ask](https://github.com/Naveen-Indla/Google-Data-Analytics-Capstone-Case-Study1-?tab=readme-ov-file#ask)
 - [Prepare](https://github.com/Naveen-Indla/Google-Data-Analytics-Capstone-Case-Study1-?tab=readme-ov-file#prepare)
-- [Process]
-- [Analyze]
+- [Process](https://github.com/Naveen-Indla/Google-Data-Analytics-Capstone-Case-Study1-/blob/main/README.md#process)
+- [Analyze](https://github.com/Naveen-Indla/Google-Data-Analytics-Capstone-Case-Study1-#analyze)
 - [Share]
-- [Act]
+- [Act](https://github.com/Naveen-Indla/Google-Data-Analytics-Capstone-Case-Study1-?tab=readme-ov-file#act)
 
 ### Quick links
 
