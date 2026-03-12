@@ -102,7 +102,7 @@ Get through the dataset to recognize the unusual and unidentify values.
 1. The **ride_id** column show no duplicate, no null value, and have a concrete character length.
 -> **ride_id** is the primary id.
 
-   ![image](https://user-images.githubusercontent.com/126408630/251006408-2ff3e09b-9336-47b7-a85d-26be61269e83.PNG)
+   ![image]()
 
    ![image](https://user-images.githubusercontent.com/126408630/251006568-2a885cf6-9fae-4d25-882e-67b94def732d.PNG)
 
