@@ -6,7 +6,7 @@ Course: [Google Data Analytics Capstone: Complete a Case Study](https://www.cour
 
 In this case study, I will perform many real-world tasks of a junior data analyst at a fictional company, Cyclistic. To answer the key business questions, I will follow the steps of the data analysis process:
 
-- [Ask]
+- [Ask](https://github.com/Naveen-Indla/Google-Data-Analytics-Capstone-Case-Study1-?tab=readme-ov-file#ask)
 - [Prepare]
 - [Process]
 - [Analyze]
