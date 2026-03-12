@@ -102,9 +102,11 @@ Get through the dataset to recognize the unusual and unidentify values.
 1. The **ride_id** column show no duplicate, no null value, and have a concrete character length.
 -> **ride_id** is the primary id.
 
-![image](https://github.com/Naveen-Indla/Google-Data-Analytics-Capstone-Case-Study1-/blob/a30129e1062c7881c3540648f8839d289c6248fd/No%20of%20Rows%20.png)
-![image](https://github.com/Naveen-Indla/Google-Data-Analytics-Capstone-Case-Study1-/blob/4d56c9369a3f0dae09af362045a705129369df26/no%20duplicates.png)
-![image](https://github.com/Naveen-Indla/Google-Data-Analytics-Capstone-Case-Study1-/blob/b8faf02dc9a4b5f9747812e587432f0fb9cea229/Length%20of%20ride%20characters.png)
+  ![image](https://github.com/Naveen-Indla/Google-Data-Analytics-Capstone-Case-Study1-/blob/a30129e1062c7881c3540648f8839d289c6248fd/No%20of%20Rows%20.png)
+
+  ![image](https://github.com/Naveen-Indla/Google-Data-Analytics-Capstone-Case-Study1-/blob/4d56c9369a3f0dae09af362045a705129369df26/no%20duplicates.png)
+
+  ![image](https://github.com/Naveen-Indla/Google-Data-Analytics-Capstone-Case-Study1-/blob/b8faf02dc9a4b5f9747812e587432f0fb9cea229/Length%20of%20ride%20characters.png)
 
 2. Checking duplication values for each fields.
 
