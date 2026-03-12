@@ -18,7 +18,7 @@ In this case study, I will perform many real-world tasks of a junior data analys
 Data Source: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html) [accessed on 10/15/25]  
   
 SQL Queries:  
-[01. Data Combining](https://github.com/Naveen-Indla/Google-Data-Analytics-Capstone-Case-Study1-/blob/7923dda72ed9af1d3fc5160b2cb55959ffe52e8d/1.Combining%20Data.sql)  
+[01. Data Combining](https://github.com/Naveen-Indla/Google-Data-Analytics-Capstone-Case-Study1-/blob/8297045d16e29d07afcfc9c4540a31ff22434543/1.Combining%20Data.sql)  
 [02. Data Exploration](https://github.com/Naveen-Indla/Google-Data-Analytics-Capstone-Case-Study1-/blob/7923dda72ed9af1d3fc5160b2cb55959ffe52e8d/2.Exploring%20Data.sql)  
 [03. Data Cleaning](https://github.com/Naveen-Indla/Google-Data-Analytics-Capstone-Case-Study1-/blob/7923dda72ed9af1d3fc5160b2cb55959ffe52e8d/3.Cleaning%20Data.sql)  
 [04. Data Analysis](https://github.com/Naveen-Indla/Google-Data-Analytics-Capstone-Case-Study1-/blob/7923dda72ed9af1d3fc5160b2cb55959ffe52e8d/4.Analyzing%20Data.sql)  
