@@ -102,7 +102,7 @@ Get through the dataset to recognize the unusual and unidentify values.
 1. The **ride_id** column show no duplicate, no null value, and have a concrete character length.
 -> **ride_id** is the primary id.
 
-   ![image]()
+   ![image](https://github.com/Naveen-Indla/Google-Data-Analytics-Capstone-Case-Study1-/blob/4d56c9369a3f0dae09af362045a705129369df26/no%20duplicates.png)
 
    ![image](https://user-images.githubusercontent.com/126408630/251006568-2a885cf6-9fae-4d25-882e-67b94def732d.PNG)
 
